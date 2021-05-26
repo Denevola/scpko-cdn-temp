@@ -1,7 +1,7 @@
 | Name | Author | License |
 |---|---|---|
 | [250_logo.png](https://scp-wiki.wikidot.com/main) | [Randomini](http://www.wikidot.com/user:info/randomini), [Aelanna](https://www.wikidot.com/user:info/aelanna) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
-| [CC-by-sa-small.png](https://creativecommons.org/about/downloads/) | [Creative Commons](https://creativecommons.org/) | [#](https://creativecommons.org/policies) |
+| [CC-by-sa-small.png](https://creativecommons.org/about/downloads/) | [Creative Commons](https://creativecommons.org/) | [Policies - Creative Commons](https://creativecommons.org/policies) |
 | [black.png](https://scp-wiki.wikidot.com/nav:side) | [Crayne](https://www.wikidot.com/user:info/crayne) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [body_bg.png](https://github.com/Grombald/Common-Theme) | [Dr_Grom](https://www.wikidot.com/user:info/dr-grom), [Aelanna](https://www.wikidot.com/user:info/aelanna) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [default.png](https://scp-wiki.wikidot.com/nav:side) | [Aelanna](https://www.wikidot.com/user:info/aelanna) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
