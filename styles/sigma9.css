@@ -395,7 +395,6 @@ font-family: 'Andale Mono', 'Courier New', "Nanum Gothic Coding", Courier, monos
 }
  #breadcrumbs {
      margin: -1em 0 1em;
-     font-weight: 85%;
 }
 /* YUI-TABS */
  .yui-navset .yui-content{
@@ -868,7 +867,6 @@ font-family: 'Andale Mono', 'Courier New', "Nanum Gothic Coding", Courier, monos
      height: 9px;
     /* for horizontal scrollbars */
      border: solid 1px rgba(0, 0, 0, 0.1);
-     border-round: 0.5px;
 }
  ::-webkit-scrollbar-track {
      background: rgba(0, 0, 0, 0.1);
@@ -1300,15 +1298,12 @@ font-family: 'Andale Mono', 'Courier New', "Nanum Gothic Coding", Courier, monos
 }
  
 #top-bar div.top-bar > ul > li > ul > li:hover > ul, 
-#top-bar div.mobile-top-bar > ul > li > ul > li:hover > ul {
+#top-bar div.mobile-top-bar > ul > li > ul > li:hover > ul,
+#top-bar div.top-bar > ul > li > ul > li.sfhover > ul, 
+#top-bar div.mobile-top-bar > ul > li > ul > li.sfhover > ul {
     visibility: visible;
 }
- 
-#top-bar div.top-bar > ul > li > ul > li:sfhover > ul, 
-#top-bar div.mobile-top-bar > ul > li > ul > li:sfhover > ul {
-    visibility: visible;
-}
- 
+
 .c_topbar_arrow {
     color: #a01;
     position: absolute;
