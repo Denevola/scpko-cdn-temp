@@ -332,6 +332,14 @@ font-family: 'Andale Mono', 'Courier New', "Nanum Gothic Coding", Courier, monos
     background: #fff0f0;
 }
 
+#side-bar .side-block.guide {
+    background: #f0fff6;
+}
+
+#side-bar .side-block.copyright {
+    background: #f0f0f0;
+}
+
  #side-bar .side-area {
      padding: 10px;
 }
